@@ -5,6 +5,7 @@
      font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
      color: #777;
      background: #777;
+	 margin-left: 15%;
      
      width: 960px;
      font-size: 18px;
@@ -17,9 +18,14 @@
 
 }
 
+#header1 {
+	height: 90px;
+}
+
 #nav {
-    height: 100px;
+    height: 90px;
     margin-bottom: 15px;
+
 }
 
 #section {
